@@ -1,14 +1,15 @@
-* {
-    margin: 1;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,900&display=swap');
 
+* {
+    margin: 0;
 }
 
 header {
-    background-color: rgb(50, 105, 105);
-    color: white;
-    height: 11vh;
+    background-color: rgb(37, 105, 105);
+    color: #fff;
+    height: 12vh;
     font-family: 'Montserrat', sans-serif;
-    justify-content: center;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
