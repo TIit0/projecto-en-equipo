@@ -1,0 +1,14 @@
+* {
+    margin: 1;
+
+}
+
+header {
+    background-color: rgb(50, 105, 105);
+    color: white;
+    height: 11vh;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
